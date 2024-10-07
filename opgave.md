@@ -19,7 +19,7 @@ Je gaat zelf een versie maken van Pong in Unity. Je houdt het bij 'single player
 - De paddles mogen enkel op en neer kunnen bewegen.
 - De pijltjestoetsen laten de paddle van de speler op en neer bewegen.
 - Zorg ervoor dat de paddle van de computer speler altijd in de richting van de bal beweegt (enkel de y-positie). Experimenteer met snelheden tot je een tegenspeler hebt die je kan verslaan, maar het je niet té makkelijk maakt.
-- Houd de score bij en toon die in de console voor halve punten en op het scherm voor volle punten.
+- Houd de score bij en toon die.
 - Nadat een speler een punt maakt, laat je de bal onmiddelijk opnieuw vertrekken in het midden van het scherm, in een willekeurige richting.
 
 - Optioneel: maak 3 opties: makkelijk, normaal en moeilijk. Je kan dit doen door de snelheid van de bal te wijzigen, die van de tegenspeler, of door de 'acceleratie' van de bal aan te passen. Probeer eerst eens door de keuze gewoon in een variabele te stoppen, als je nog tijd over hebt laat je de speler kiezen.
