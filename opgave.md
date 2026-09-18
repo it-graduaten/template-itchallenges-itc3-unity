@@ -26,6 +26,16 @@ Je gaat zelf een versie maken van Pong in Unity. Je houdt het bij 'single player
 
 Maak op voorhand een korte analyse hoe je dit zal aanpakken. Begin niet van iets dat een AI heeft gemaakt om het dan aan te passen, daar verlies je meer tijd mee dan je wint. Je kan AI om hulp vragen, maar bouw je basis zelf op!
 
+### Hoe en wat inleveren?
+Maak als je klaar bent een Windows publish van je spel. Deze zet je samen met de code in je repo.
+
+##### Wat inleveren?
+- Je volledige code (veplicht om te kunnen slagen)
+- Een Windows publish van je spel (om het maximum te kunnen scoren)
+
+##### Waar inleveren?
+In de repo van de GitHub Classroom assignment: commit en push je repo voor de deadline (enkel inleveringen op GitHub zullen beoordeeld worden).
+
 ## Opdracht 2 - Eigen game
 Kies een spel uit de lijst met voorstellen en maak hiervan je eigen versie of maak het zo veel mogelijk na in Unity, rekening houdend met de minimum vereisten. Heb je zelf een leuk voorstel, leg het dan voor aan je docent. Beperk je tot 2D games. Probeer niet te veel tijd te verliezen met de grafische kant tot in de details af te werken, concentreer je op de werking en code.
 
@@ -71,3 +81,27 @@ TIPS: maak regelmatig een backup wanneer je een werkbare versie hebt en aan de v
 - Houd je graphics simpel. Mooie graphics kosten tijd en vereisen vaak veel talent. 
 - Als je een simpel spel kiest, moet je extra zaken bij verzinnen om aan alle vereisten te voldoen. Als je niet creatief genoeg bent hiervoor, kies dan een spel waar de vereisten sowieso al in zitten.
 - Als je een klassieke 2D platformer bouwt, houd je dan bij levels die je op voorhand ontwerpt. Je willekeurig gegenereerd item is dan best gewoon een willekeurige power-up of vijand.
+
+### Hoe en wat inleveren?
+Maak als je klaar bent een Windows publish van je spel. Deze zet je samen met de code in je repo.
+
+Maak daarnaast ook een demo filmpje van je spel: 
+- Deze demo moet alle funcionaliteiten laten zien. 
+- Voeg via tekst en/of spraak instructies toe voor de controls, leg uit wat welke powerup juist doet, welke input waar verwacht wordt, hoe je punten scoort, hoe je naar het volgende level gaat, ...
+- Gebruik hiervoor screen recording software (zoals OBS Studio), en upload je video in MP4 format op Canvas. 
+- Je resolutie is bij voorkeur 720p of 1080p.
+- OPTIONEEL: pak het aan alsof je een gameplay trailer maakt voor je spel en stop er wat humor in.
+
+Als je geen headset hebt kan je eentje uitlenen op school. 
+
+##### Wat inleveren?
+- Je code (veplicht om te kunnen slagen)
+- Een Windows publish van je spel (om het maximum te kunnen scoren)
+- Een demo filmpje (om het maximum te kunnen scoren)
+
+##### Waar inleveren?
+- Code + build:
+   - In de repo van de GitHub Classroom assignment: commit en push je repo voor de deadline (enkel inleveringen op GitHub zullen beoordeeld worden).
+- Demo filmpje:
+   - In de Canvas opdracht (GithHub heeft beperkingen op bestandsgrootte dus stop dit NIET in je repo). 
+   - LET OP: Indien je geen code indient op GitHub zal je filmpje niet beoordeeld worden!
