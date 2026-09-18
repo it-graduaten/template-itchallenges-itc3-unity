@@ -34,7 +34,7 @@ Maak als je klaar bent een Windows publish van je spel. Deze zet je samen met de
 - Een Windows publish van je spel (om het maximum te kunnen scoren)
 
 ##### Waar inleveren?
-In de repo van de GitHub Classroom assignment: commit en push je repo voor de deadline (enkel inleveringen op GitHub zullen beoordeeld worden).
+In de repo van de autograder assignment: commit en push je repo voor de deadline (enkel inleveringen op GitHub zullen beoordeeld worden).
 
 ## Opdracht 2 - Eigen game
 Kies een spel uit de lijst met voorstellen en maak hiervan je eigen versie of maak het zo veel mogelijk na in Unity, rekening houdend met de minimum vereisten. Heb je zelf een leuk voorstel, leg het dan voor aan je docent. Beperk je tot 2D games. Probeer niet te veel tijd te verliezen met de grafische kant tot in de details af te werken, concentreer je op de werking en code.
@@ -101,7 +101,7 @@ Als je geen headset hebt kan je eentje uitlenen op school.
 
 ##### Waar inleveren?
 - Code + build:
-   - In de repo van de GitHub Classroom assignment: commit en push je repo voor de deadline (enkel inleveringen op GitHub zullen beoordeeld worden).
+   - In de repo van de autograder assignment: commit en push je repo voor de deadline (enkel inleveringen op GitHub zullen beoordeeld worden).
 - Demo filmpje:
    - In de Canvas opdracht (GithHub heeft beperkingen op bestandsgrootte dus stop dit NIET in je repo). 
    - LET OP: Indien je geen code indient op GitHub zal je filmpje niet beoordeeld worden!
